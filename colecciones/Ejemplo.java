@@ -161,7 +161,7 @@ public class Ejemplo{
         map.put(101,"Vijay");    
         map.put(102,"Rahul");
         System.out.println(map.hashCode());
-        
+        // Esto es algo nuevo 2
         
 
 
