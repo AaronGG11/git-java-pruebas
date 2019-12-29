@@ -25,7 +25,6 @@ public class ficheros{
         b.close();
     }
 
-
     public static void Escritor(String ruta) throws FileNotFoundException, IOException {
         File archivo = new File(ruta);
         BufferedWriter bw;
