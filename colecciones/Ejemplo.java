@@ -157,11 +157,12 @@ public class Ejemplo{
         // LinkedHashMap	LinkedHashMap es la implementación de Map. Hereda la clase HashMap.
             // Mantiene el orden de inserción.
         // TreeMap	TreeMap es la implementación de Map y SortedMap. Mantiene el orden ascendente.
-        map.put(100,"Amit");    
-        map.put(101,"Vijay");    
-        map.put(102,"Rahul");
-        System.out.println(map.hashCode());
-        // Esto es algo nuevo 2
+        //map.put(100,"Amit");    
+        //map.put(101,"Vijay");    
+        //map.put(102,"Rahul");
+        //System.out.println(map.hashCode());
+
+
         
 
 
