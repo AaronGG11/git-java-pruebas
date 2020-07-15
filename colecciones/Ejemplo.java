@@ -25,10 +25,11 @@ public class Ejemplo{
         Iterator itr = list1.iterator();  
         while(itr.hasNext()){  
             System.out.println(itr.next());  
-        }  
+        }
         */
 
         /* ////////////////////////// LINKEDLIST -> Lista doblemente enlazada 
+        // es mas rapida que un arraylist
         list2.add ( "Ravi" );  
         list2.add ( "Vijay" );  
         list2.add ( "Ravi" );  
@@ -36,8 +37,8 @@ public class Ejemplo{
         Iterator <String> itr = list2.iterator();  
         while (itr.hasNext ()) {  
             System.out.println(itr.next ());  
-        } 
-        */ 
+        }
+        */
         
         /* ////////////////////////// VECTOR
         // VECTOR -> utiliza una matriz dinámica para almacenar los elementos de datos. 
@@ -51,7 +52,7 @@ public class Ejemplo{
         Iterator <String> itr = list3.iterator ();  
         while (itr.hasNext ()) {  
             System.out.println (itr.next ());  
-        }  
+        }
         */
 
         /* ////////////////////////// PILA
